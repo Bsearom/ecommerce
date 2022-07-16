@@ -3,7 +3,7 @@
         'name' => 'benjamim/ecommerce',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '43a37b8ad6b2d0853f49759bee72a1eb35741ca1',
+        'reference' => '0d36af4808e24dba66ab8ef1dc18c81d943b2da2',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'benjamim/ecommerce' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '43a37b8ad6b2d0853f49759bee72a1eb35741ca1',
+            'reference' => '0d36af4808e24dba66ab8ef1dc18c81d943b2da2',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
