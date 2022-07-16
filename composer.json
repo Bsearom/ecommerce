@@ -1,13 +1,13 @@
 {
-    "name": "Benjamim/ecommerce",
+    "name": "benjamim/ecommerce",
     "authors": [
         {
-            "name": "Hcode Treinamentos loja virtual",
-            "email": "benplaysson@hotmail.com"
+            "name": "hcode",
+            "email": "suporte@hcode.com.br"
         }
     ],
     "require": {
-    	"phpmailer/phpmailer": "~6.0",
+        "phpmailer/phpmailer": "5.2.22",
     	"slim/slim":"2.0",
     	"rain/raintpl":"3.0.0"
     },
