@@ -15,7 +15,7 @@ $app->config('debug', true);
 
 $app->get('/', function() {
     
-	$page = new Hcode\Page();
+	$page = new \Hcode\Page();
 
 	$page->setTpl("index");
 
