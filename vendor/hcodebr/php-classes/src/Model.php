@@ -31,7 +31,7 @@ class Model {
 			{
 
 				case "get":
-					return $this->values[$fieldName];
+				return $this->values[$fieldName];
 				break;
 
 				case "set":
@@ -41,6 +41,9 @@ class Model {
 			}
 
 		}
+
+
+
 
 	}
 
